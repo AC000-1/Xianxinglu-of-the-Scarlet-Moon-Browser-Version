@@ -1,14 +1,5 @@
-#The-NPC-Sech Vietnamese/Web Version
-[> Play Game](https://ac000-1.github.io/H-Game-VH/TheNPCSech/www/index.html)
-
-#Oukoku_Kishi_Regina
-[> Play Game](https://ac000-1.github.io/H-Game-VH/Oukoku_Kishi_Regina/www/index.html)
-
-#Kingdom_of_Passion
+# Kingdom_of_Passion
 [> Play Game](https://ac000-1.github.io/H-Game-VH/Kingdom_of_Passion/www/index.html)
-
-#Roseliam
-[> Play Game](https://ac000-1.github.io/H-Game-VH/Roseliam/www/index.html)
 
 
 
